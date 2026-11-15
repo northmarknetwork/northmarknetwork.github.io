@@ -8,4 +8,6 @@ h2 { color: var(--gold); font-size: 21px; margin: 32px 0 8px; }
 .meta { opacity: 0.7; margin-top: 0; }
 a { color: var(--gold); }
 ul { padding-left: 22px; }
+.yt { margin-top: 24px; padding: 14px 18px; border: 1px solid rgba(244, 185, 66, 0.5); border-radius: 10px; }
+.yt p { margin: 0; }
 .foot { margin-top: 48px; padding-top: 16px; border-top: 1px solid rgba(244, 185, 66, 0.35); font-size: 15px; }
